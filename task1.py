@@ -1,4 +1,3 @@
-#d1gxs1ogryWisE69lG9qux8Xx4PdNpebNhInxYGx
 import requests
 import matplotlib.pyplot as plt
 import seaborn as sns
